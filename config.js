@@ -16,8 +16,8 @@ global.isBaileysFail = false
 global.defaultLenguaje = 'es';
 
 global.owner = [
-  ['5219992095479', '👑 Mystic - Creador 👑', true],
-  ['51940617554', '💫 Mystic - Collaborator 2 💫', true],
+  ['593993545749', '👑 Mystic - Creador 👑', true],
+  ['593986860164', '💫 Mystic - Collaborator 2 💫', true],
   ['51996089079', '💫 Mystic - Collaborator 3 💫', true],
   ['5218442286089', '💫 Mystic - Collaborator 4 💫', true],
   ['50246028932', '💫 Mystic - Collaborator 5 💫', true],
@@ -54,8 +54,8 @@ global.owner = [
   ['5218713339906']
 ];
 
-global.suittag = ['5219993404349'];
-global.prems = ['51995386439'];
+global.suittag = ['5939935457499'];
+global.prems = ['593993545749'];
 
 // API
 global.BASE_API_DELIRIUS = "https://delirius-apiofc.vercel.app";
